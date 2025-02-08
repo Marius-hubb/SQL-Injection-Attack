@@ -12,6 +12,6 @@ This lab demonstrates how to perform an SQL injection attack using sqlmap. In th
 
 <p align="center">
 macof commands: <br/>
-<img src="https://i.imgur.com/lh0FGY1.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Pq9KMvV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
