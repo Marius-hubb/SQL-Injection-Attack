@@ -1,6 +1,6 @@
 <h1>SQL Injection Attack Against MSSQL to Extract Databases using sqlmap</h1>
 
- ## [Video Demonstration](https://drive.google.com/file/d/1eJZrk0qpOimJQMoXbZMryWMkMdkVBmLb/view?usp=drive_link)
+ ## [Video Demonstration (10:30)](https://drive.google.com/file/d/1eJZrk0qpOimJQMoXbZMryWMkMdkVBmLb/view?usp=drive_link)
 
 <h2>Description</h2>
 SQL injection is a technique used to take advantage of unsanitized input vulnerabilities to pass SQL commands through a web application for execution by a backend database.<br><br>
